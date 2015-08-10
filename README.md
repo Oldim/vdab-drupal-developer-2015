@@ -14,3 +14,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+	-
+
+1. Eva Van Rumst
+	- email: evavanrumst@gmail.com
+	- GitHub: https://github.com/EvaVanRumst
