@@ -11,6 +11,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
-1. naam
+1. Erwin Michiels
 	- email: erwin_michiels@hotmail.com
 	- GitHub: https://github.com/erwin-mi
