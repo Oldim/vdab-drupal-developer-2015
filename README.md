@@ -12,5 +12,5 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 ## Studenten
 
 1. naam
-	- email: email -- domein
-	- GitHub: URL naar github account
+	- email: erwin_michiels@hotmail.com
+	- GitHub: https://github.com/erwin-mi
