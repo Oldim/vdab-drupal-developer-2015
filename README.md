@@ -14,3 +14,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+2. Job Henkens
+	- email: job.henkens@gmail.com
+	- GitHub: https://github.com/jobhenkens
