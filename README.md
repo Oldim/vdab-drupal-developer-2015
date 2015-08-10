@@ -14,3 +14,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+	
+Filip Haesen
+	- email : filip.haesen@telenet.be
+	- GitHub : https://github.com/filipha
