@@ -11,10 +11,15 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
+<<<<<<< HEAD
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
 	
-2. Wim Vits
+1. Wim Vits
 	-email: wimvits -- hotmail.com
 	-GitHub: https://github.com/WVits
+
+2. Marleen Meermans
+	- email: marleen.meermans -- gmail.com
+	- GitHub: https://github.com/MarleenMeermama
