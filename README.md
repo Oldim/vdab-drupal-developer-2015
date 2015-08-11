@@ -19,6 +19,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: URL naar github account
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 1. Wim Vits
 	-email: wimvits -- hotmail.com
@@ -52,3 +53,8 @@ Steven Leysen
 1. Eva Van Rumst
 	- email: evavanrumst@gmail.com
 	- GitHub: https://github.com/EvaVanRumst
+
+	
+Filip Haesen
+	- email : filip.haesen@telenet.be
+	- GitHub : https://github.com/filipha
