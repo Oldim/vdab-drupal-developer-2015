@@ -16,6 +16,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+<<<<<<< HEAD
 
 1. Wim Vits
 	-email: wimvits -- hotmail.com
@@ -36,3 +37,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. Erwin Michiels
 	- email: erwin_michiels@hotmail.com
 	- GitHub: https://github.com/erwin-mi
+=======
+Tony Bijl
+	- email: tony.bijl59@gmail.com -- domein
+	- GitHub: https://github.com/tonybijlage
+>>>>>>> 2c1f4bca13ca9c5eccfc3a6df854667b7f006201
