@@ -12,8 +12,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 ## Studenten
 
 1. Wim Vits
-	-email: wimvits -- hotmail.com
-	-GitHub: https://github.com/WVits
+	- email: wimvits -- hotmail.com
+	- GitHub: https://github.com/WVits
 
 2. Marleen Meermans
 	- email: marleen.meermans -- gmail.com
@@ -32,7 +32,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: https://github.com/erwin-mi
 
 6. Tony Bijl
-	- email: tony.bijl59 -- gmail.com -- domein
+	- email: tony.bijl59 -- gmail.com
 	- GitHub: https://github.com/tonybijlage
 
 7. Steven Leysen
