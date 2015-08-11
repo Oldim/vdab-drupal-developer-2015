@@ -11,6 +11,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 ## Studenten
 
+<<<<<<< HEAD
 
 1. naam
 	- email: email -- domein
@@ -31,3 +32,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 2. Job Henkens
 	- email: job.henkens@gmail.com
 	- GitHub: https://github.com/jobhenkens
+
+1. Erwin Michiels
+	- email: erwin_michiels@hotmail.com
+	- GitHub: https://github.com/erwin-mi
