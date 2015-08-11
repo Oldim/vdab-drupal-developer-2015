@@ -15,6 +15,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 1. naam
 	- email: email -- domein
 	- GitHub: URL naar github account
+<<<<<<< HEAD
 	
 1. Wim Vits
 	-email: wimvits -- hotmail.com
@@ -23,3 +24,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 2. Marleen Meermans
 	- email: marleen.meermans -- gmail.com
 	- GitHub: https://github.com/MarleenMeermama
+
+3. Koen Van de Gaer
+	- email: kvdg@hotmail.com
+	- Github: https://github.com/K-VDG
