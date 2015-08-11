@@ -1,7 +1,7 @@
 VDAB Drupal Developer 2015
 ==============================
 
-docent: Pascal Nosenzo (opleiding@pascalculator.be)
+docent: Pascal Nosenzo (opleiding -- pascalculator.be)
 
 
 ## Cursus
@@ -10,16 +10,6 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 
 
 ## Studenten
-
-<<<<<<< HEAD
-
-1. naam
-<<<<<<< HEAD
-	- email: email -- domein
-	- GitHub: URL naar github account
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 1. Wim Vits
 	-email: wimvits -- hotmail.com
@@ -30,31 +20,31 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- GitHub: https://github.com/MarleenMeermama
 
 3. Koen Van de Gaer
-	- email: kvdg@hotmail.com
+	- email: kvdg -- hotmail.com
 	- Github: https://github.com/K-VDG
 
-2. Job Henkens
-	- email: job.henkens@gmail.com
+4. Job Henkens
+	- email: job.henkens -- gmail.com
 	- GitHub: https://github.com/jobhenkens
 
-1. Erwin Michiels
-	- email: erwin_michiels@hotmail.com
+5. Erwin Michiels
+	- email: erwin_michiels -- hotmail.com
 	- GitHub: https://github.com/erwin-mi
 
-Tony Bijl
-	- email: tony.bijl59@gmail.com -- domein
+6. Tony Bijl
+	- email: tony.bijl59 -- gmail.com -- domein
 	- GitHub: https://github.com/tonybijlage
 
-Steven Leysen
-	- email: steven.leysen@gmail.com
+7. Steven Leysen
+	- email: steven.leysen -- gmail.com
 	- GitHub: https://github.com/stoicsteve/
 
 
-1. Eva Van Rumst
-	- email: evavanrumst@gmail.com
+8. Eva Van Rumst
+	- email: evavanrumst -- gmail.com
 	- GitHub: https://github.com/EvaVanRumst
 
 	
-Filip Haesen
-	- email : filip.haesen@telenet.be
+9. Filip Haesen
+	- email : filip.haesen -- telenet.be
 	- GitHub : https://github.com/filipha
