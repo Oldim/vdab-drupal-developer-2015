@@ -14,6 +14,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 <<<<<<< HEAD
 
 1. naam
+<<<<<<< HEAD
 	- email: email -- domein
 	- GitHub: URL naar github account
 <<<<<<< HEAD
@@ -41,3 +42,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 Tony Bijl
 	- email: tony.bijl59@gmail.com -- domein
 	- GitHub: https://github.com/tonybijlage
+
+Steven Leysen
+	- email: steven.leysen@gmail.com
+	- GitHub: https://github.com/stoicsteve/
