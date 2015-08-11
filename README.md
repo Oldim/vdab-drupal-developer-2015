@@ -18,6 +18,7 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 	- email: email -- domein
 	- GitHub: URL naar github account
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 1. Wim Vits
 	-email: wimvits -- hotmail.com
@@ -46,3 +47,8 @@ Tony Bijl
 Steven Leysen
 	- email: steven.leysen@gmail.com
 	- GitHub: https://github.com/stoicsteve/
+
+
+1. Eva Van Rumst
+	- email: evavanrumst@gmail.com
+	- GitHub: https://github.com/EvaVanRumst
