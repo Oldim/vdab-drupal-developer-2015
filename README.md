@@ -48,3 +48,8 @@ De cursus vind je terug op de [Web Backend GitHub repository](https://github.com
 9. Filip Haesen
 	- email : filip.haesen -- telenet.be
 	- GitHub : https://github.com/filipha
+
+	
+10. Dmitryi Olifirenko
+	- email : olifirenko88 -- gmail.com
+	- GitHub : https://github.com/Oldim
