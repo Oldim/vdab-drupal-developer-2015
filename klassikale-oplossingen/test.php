@@ -1,6 +1,14 @@
 <?php
 
-	$messageClass	= "error";
+	$tekst =   "<p>Dit is een zin.</p>";
+
+    $tekst2 =   &$tekst;
+
+    $tekst2 =   '<p>Dit zijn twee zinnen. Inderdaad, twee zinnen.</p>';
+
+    echo $tekst;
+
+    echo $tekst2;
 
 ?>
 
@@ -28,9 +36,7 @@
     </head>
     <body>
 
-    <div class="<?= $messageClass ?>">
-		<?= ( $messageClass === 'error' ) ? "Dit liep fout" : "Dit liep goed" ?>
-    </div>
+   
         
         <script src="js/main.js"></script>
     </body>
